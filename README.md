@@ -62,14 +62,7 @@ GET ADMIN BY MAIL
 
 
 
-### get baseUrl/admins/mail 
-GET ADMIN BY MAIL
-#### path param
-``` yaml
-{
-  mail: str
-}
-```
+
 
 
 
