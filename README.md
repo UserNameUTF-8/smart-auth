@@ -26,7 +26,7 @@ UPDATE ADMIN NAME OR IP
   "admin_name": "string",
   "admin_ip": "string"
 }
-[req] admin_name or admin_id
+[req] admin_name or admin_ip
 ```
 
 ### put baseUrl/pass-update/
